@@ -16,7 +16,17 @@ I also recommend using Singakai's [Yellow Stream](https://www.loverslab.com/topi
 - Sims which "really have to pee", if they cannot use a conventional toilet or "pee spot", will pee where they are standing as opposed to waiting until they wet themselves, unless they are snobbish.
 - "Diuretic atmosphere", a lot trait. This causes all Sims on the lot to gain 5 points of bladder need every 5 seconds.
 - "Overactive bladder", a buff. This causes the affected Sim's bladder need to become worse by 5 points every 5 seconds, and lasts for 8 hours. There is currently no way for this buff to happen to a Sim naturally.
-- A rudimentary new animation and associated interaction as a proof-of-concept (not yet ready for use because a new undressing solution needs to be found).
+- A rudimentary new female pee animation which female Sims will sometimes use instead of WickedWhim's low squat, as a proof-of-concept.
+
+## Attribution
+
+The following items are the works of Quietbird:
+
+- All code contained herein, excluding code used to undress urinating Sims, which is courtesy of TURBODRIVER.
+- The icon for the "diuretic atmopshere" lot trait.
+- The "pee_f_hisquat_0" animation.
+
+Any other creative work stored in this repository is provided courtesy of Maxis and Electronic Arts Inc.
 
 ## Licensing
 
